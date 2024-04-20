@@ -13,6 +13,7 @@ export const PROJECTS = [
     image: project1,
     description: "Placeholder description.",
     technologies: ["HTML", "CSS", "React", "Supabase", "Sass"],
+    href: "https://cabin-in-the-woods-navy.vercel.app/dashboard",
   },
   {
     title: "Task Management App",
@@ -25,15 +26,17 @@ export const PROJECTS = [
     image: project3,
     description: "Placeholder description.",
     technologies: ["HTML", "CSS", "React"],
+    href: "https://around-the-world-beta.vercel.app/",
   },
   {
     title: "Portfolio Website",
-    image: project3,
+    image: project4,
     description: "Placeholder description.",
     technologies: ["HTML", "React", "TailwindCss"],
+    href: "https://davalos.vercel.app/",
   },
   {
-    title: "Movie Directory",
+    title: "Movie App",
     image: project4,
     description: "Placeholder description.",
     technologies: ["HTML", "CSS", "React", "Sass"],
